@@ -1,0 +1,38 @@
+.main-page{
+    position: relative;
+  background: url(../img/assets/assets/h_img.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  text-align: center;
+  color: #fff;
+  padding-top: 10%;
+  min-height: 500px;
+  letter-spacing: 2px;
+  font-family: "Montserrat", sans-serif;
+}
+/**********ABOUT************************************/
+.about{
+    background-color: #EDF2DE;
+}
+.about h2{
+    text-align: center;
+    font-size: 4vw;
+}
+.about p{
+    text-align: center;
+    font-size: 2vw;
+}
+.services{
+    position: relative;
+  background: url(../img/assets/assets/s_image.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  text-align: center;
+  color: #fff;
+  padding-top: 10%;
+  min-height: 500px;
+  letter-spacing: 2px;
+  font-family: "Montserrat", sans-serif;
+}
